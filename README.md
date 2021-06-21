@@ -27,6 +27,7 @@ You can also find my website at [benjaminmatthews.dev](http://benjaminmatthews.d
 ![](https://img.shields.io/badge/Monitoring-Google%20Analytics-informational?style=flat-square&logo=Google%20Analytics&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Monitoring-Google%20Tag%20Manager-informational?style=flat-square&logo=Google%20Tag%20Manager&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Monitoring-Google%20Search%20Console-informational?style=flat-square&logo=Google%20Search%20Console&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Monitoring-Google%20PageSpeed%20Insights-informational?style=flat-square&logo=PageSpeed%20Insights&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Monitoring-Datadog-informational?style=flat-square&logo=Datadog&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/Monitoring-New%20Relic-informational?style=flat-square&logo=New%20Relic&logoColor=white&color=lightgrey)
 
