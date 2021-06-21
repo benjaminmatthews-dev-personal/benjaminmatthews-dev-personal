@@ -9,10 +9,12 @@ You can also find my website at [benjaminmatthews.dev](http://benjaminmatthews.d
 ![](https://img.shields.io/badge/OS-openSUSE-informational?style=flat-square&logo=openSUSE&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat-square&logo=Apple&logoColor=white&color=lightgrey)
+
 ![](https://img.shields.io/badge/Editor-PHPstorm-informational?style=flat-square&logo=PhpStorm&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat-square&logo=PyCharm&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat-square&logo=WebStorm&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Editor-Android%20Studio-informational?style=flat-square&logo=Android%20Studio&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white&color=lightgrey)
 
 Recently, I have been writing applications in Python, Flutter, Dart, PHP, NodeJS in my professional development.
 I have strong skills in HTML, CSS & jQuery for WordPress Developmemt, along with experience with Liquid templating language for Shopify.
