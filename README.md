@@ -37,6 +37,7 @@ Business Improvement Project for local business to manage ordering process for m
 Multi-datasource serverless ingestion engine, with firebase integration and application UI, allowing small businesses to access and analyse retail sales and order statistics.
 - [Unleashed API Request (Python) with examples](https://gist.github.com/leodanben/9c6ffb66d51790e71ef30fec8757dd2e)
 - [Converting milliseconds in Date() string to DateTime object in Python](https://gist.github.com/leodanben/6ecd1a2b94f021495c3c043b2b193d1b)
+- [Import PEM file into Google Cloud Function (Python) Using Google Secrets Manager](https://gist.github.com/leodanben/b85d7b9cf924ac49a7d74c5eecddb478)
 ### The Person - As A Publisher - As A Brand (2020)
 Concept WordPress Multisite setup to enable single domain management in multiple niche areas without confusing main keyword orientated content for SEO domain sphere, allowing individuals to publish on multiple topics without confusing search focus for individual domain attributes.
 ### DigitalPlatform.Press (2018 / 2019) 
