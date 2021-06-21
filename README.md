@@ -9,10 +9,11 @@ Recently, I have been writing applications in Python, Flutter, Dart, PHP, NodeJS
 I have strong skills in HTML, CSS & jQuery for WordPress Developmemt, along with experience with Liquid templating language for Shopify.
 I've studied some open university courses in C Programming in my spare time, along with Software Engineering and Service Design modules
 
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/OS-openSUSE-informational?style=flat&logo=openSUSE&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=lightgrey)
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=Apple&logoColor=white&color=lightgrey) \
+OS
+![](https://img.shields.io/badge/-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-openSUSE-informational?style=flat&logo=openSUSE&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-Windows-informational?style=flat&logo=Windows&logoColor=white&color=lightgrey)
+![](https://img.shields.io/badge/-Mac-informational?style=flat&logo=Apple&logoColor=white&color=lightgrey) \
 ![](https://img.shields.io/badge/Editor-PHPstorm-informational?style=flat&logo=PhpStorm&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=brightgreen)
@@ -24,10 +25,10 @@ I've studied some open university courses in C Programming in my spare time, alo
 ![](https://img.shields.io/badge/Cloud-Amazon%20AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Cloud-Google%20Cloud-informational?style=flat&logo=Google%20Cloud&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Cloud-Cloudflare-informational?style=flat&logo=Cloudflare&logoColor=white&color=brightgreen) \
-![](https://img.shields.io/badge/Monitoring-Google%20Analytics-informational?style=flat&logo=Google%20Analytics&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Monitoring-Google%20Tag%20Manager-informational?style=flat&logo=Google%20Tag%20Manager&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Monitoring-Google%20Search%20Console-informational?style=flat&logo=Google%20Search%20Console&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Monitoring-Google%20PageSpeed%20Insights-informational?style=flat&logo=PageSpeed%20Insights&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Analytics-Google%20Analytics-informational?style=flat&logo=Google%20Analytics&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Analytics-Google%20Tag%20Manager-informational?style=flat&logo=Google%20Tag%20Manager&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Analytics-Google%20Search%20Console-informational?style=flat&logo=Google%20Search%20Console&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Analytics-Google%20PageSpeed%20Insights-informational?style=flat&logo=PageSpeed%20Insights&logoColor=white&color=brightgreen) \
 ![](https://img.shields.io/badge/Monitoring-Datadog-informational?style=flat&logo=Datadog&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/Monitoring-New%20Relic-informational?style=flat&logo=New%20Relic&logoColor=white&color=lightgrey)
 
