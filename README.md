@@ -5,7 +5,9 @@ My Github handle is [@leodanben](https://github.com/leodanben), and I also use t
 You can also find my website at [benjaminmatthews.dev](http://benjaminmatthews.dev)
 
 ## Languages / Frameworks / Professional Skills
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/OS-openSUSE-informational?style=flat&logo=openSUSE&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=lightgrey)
 
 Recently, I have been writing applications in Python, Flutter, Dart, PHP, NodeJS in my professional development.
 I have strong skills in HTML, CSS & jQuery for WordPress Developmemt, along with experience with Liquid templating language for Shopify.
