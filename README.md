@@ -10,7 +10,8 @@ I have strong skills in HTML, CSS & jQuery for WordPress Developmemt, along with
 I've studied some open university courses in C Programming in my spare time, along with Software Engineering and Service Design modules
 ### Operating Systems
 
-[![OS Ubuntu](https://img.shields.io/badge/-Ubuntu-brightgreen?style=flat&logo=Ubuntu&logoColor=white)](https://benjaminmatthews.dev)
+[![OS Ubuntu](https://img.shields.io/badge/-Ubuntu-brightgreen?style=flat&logo=Ubuntu&logoColor=white)](https://benjaminmatthews.dev/linus/ubuntu)
+[![OS openSUSE](https://img.shields.io/badge/-openSUSE-brightgreen?style=flat&logo=openSUSE&logoColor=white)](https://benjaminmatthews.dev/linus/opensuse)
 
 [![OS Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=brightgreen)](https://benjaminmatthews.dev)
 ![](https://img.shields.io/badge/OS-openSUSE-informational?style=flat&logo=openSUSE&logoColor=white&color=brightgreen)
