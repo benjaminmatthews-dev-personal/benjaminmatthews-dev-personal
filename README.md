@@ -17,13 +17,13 @@ I've studied some open university courses in C Programming in my spare time, alo
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Editor-Android%20Studio-informational?style=flat&logo=Android%20Studio&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=lightgrey) \s\s
+![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=lightgrey) \
 ![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=WordPress&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/CMS-WooCommerce-informational?style=flat&logo=Woo&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/CMS-Shopify-informational?style=flat&logo=Shopify&logoColor=white&color=lightgrey) \s\s
+![](https://img.shields.io/badge/CMS-Shopify-informational?style=flat&logo=Shopify&logoColor=white&color=lightgrey) \
 ![](https://img.shields.io/badge/Cloud-Amazon%20AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Cloud-Google%20Cloud-informational?style=flat&logo=Google%20Cloud&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Cloud-Cloudflare-informational?style=flat&logo=Cloudflare&logoColor=white&color=brightgreen) \s\s
+![](https://img.shields.io/badge/Cloud-Cloudflare-informational?style=flat&logo=Cloudflare&logoColor=white&color=brightgreen) \
 ![](https://img.shields.io/badge/Monitoring-Google%20Analytics-informational?style=flat&logo=Google%20Analytics&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Monitoring-Google%20Tag%20Manager-informational?style=flat&logo=Google%20Tag%20Manager&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Monitoring-Google%20Search%20Console-informational?style=flat&logo=Google%20Search%20Console&logoColor=white&color=brightgreen)
