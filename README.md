@@ -35,6 +35,7 @@ Business Directory Website & Application to help user discovery of small and ind
 Business Improvement Project for local business to manage ordering process for multilingual customers, transforming into "Order Application As A Service" product
 ### Codename Pelican (2021)
 Multi-datasource serverless ingestion engine, with firebase integration and application UI, allowing small businesses to access and analyse retail sales and order statistics.
+#### Public Gists
 - [Unleashed API Request (Python) with examples](https://gist.github.com/leodanben/9c6ffb66d51790e71ef30fec8757dd2e)
 - [Converting milliseconds in Date() string to DateTime object in Python](https://gist.github.com/leodanben/6ecd1a2b94f021495c3c043b2b193d1b)
 - [Import PEM file into Google Cloud Function (Python) Using Google Secrets Manager](https://gist.github.com/leodanben/b85d7b9cf924ac49a7d74c5eecddb478)
