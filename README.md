@@ -20,6 +20,12 @@ You can also find my website at [benjaminmatthews.dev](http://benjaminmatthews.d
 ![](https://img.shields.io/badge/CMS-WooCommerce-informational?style=flat-square&logo=Woo&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/CMS-Shopify-informational?style=flat-square&logo=Shopify&logoColor=white&color=lightgrey)
 
+![](https://img.shields.io/badge/Cloud-Amazon%20AWS-informational?style=flat-square&logo=Amazon%20AWS&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Cloud-Google%20Cloud-informational?style=flat-square&logo=Google%20Cloud&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Cloud-Cloudflare-informational?style=flat-square&logo=Cloudflare&logoColor=white&color=brightgreen)
+
+
+
 Recently, I have been writing applications in Python, Flutter, Dart, PHP, NodeJS in my professional development.
 I have strong skills in HTML, CSS & jQuery for WordPress Developmemt, along with experience with Liquid templating language for Shopify.
 I've studied some open university courses in C Programming in my spare time, along with Software Engineering and Service Design modules
