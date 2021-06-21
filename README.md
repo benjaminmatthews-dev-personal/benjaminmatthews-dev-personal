@@ -5,6 +5,10 @@ My Github handle is [@leodanben](https://github.com/leodanben), and I also use t
 You can also find my website at [benjaminmatthews.dev](http://benjaminmatthews.dev)
 
 ## Languages / Frameworks / Professional Skills
+Recently, I have been writing applications in Python, Flutter, Dart, PHP, NodeJS in my professional development.
+I have strong skills in HTML, CSS & jQuery for WordPress Developmemt, along with experience with Liquid templating language for Shopify.
+I've studied some open university courses in C Programming in my spare time, along with Software Engineering and Service Design modules
+
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat-square&logo=Ubuntu&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/OS-openSUSE-informational?style=flat-square&logo=openSUSE&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=lightgrey)
@@ -31,11 +35,6 @@ You can also find my website at [benjaminmatthews.dev](http://benjaminmatthews.d
 ![](https://img.shields.io/badge/Monitoring-Datadog-informational?style=flat-square&logo=Datadog&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/Monitoring-New%20Relic-informational?style=flat-square&logo=New%20Relic&logoColor=white&color=lightgrey)
 
-
-
-Recently, I have been writing applications in Python, Flutter, Dart, PHP, NodeJS in my professional development.
-I have strong skills in HTML, CSS & jQuery for WordPress Developmemt, along with experience with Liquid templating language for Shopify.
-I've studied some open university courses in C Programming in my spare time, along with Software Engineering and Service Design modules
 
 ## Professional Experience Journey
 - Teaching children to code, create websites and use WordPress since 2012
