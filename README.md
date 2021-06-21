@@ -9,10 +9,10 @@ Recently, I have been writing applications in Python, Flutter, Dart, PHP, NodeJS
 I have strong skills in HTML, CSS & jQuery for WordPress Developmemt, along with experience with Liquid templating language for Shopify.
 I've studied some open university courses in C Programming in my spare time, along with Software Engineering and Service Design modules
 
-
-<img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=brightgreen" /><img src="https://img.shields.io/badge/OS-openSUSE-informational?style=flat&logo=openSUSE&logoColor=white&color=brightgreen" /><img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=lightgrey" /><img src="https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=Apple&logoColor=white&color=lightgrey" /> \
-
-
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/OS-openSUSE-informational?style=flat&logo=openSUSE&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=lightgrey)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=Apple&logoColor=white&color=lightgrey) \
 ![](https://img.shields.io/badge/Editor-PHPstorm-informational?style=flat&logo=PhpStorm&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=brightgreen)
@@ -70,15 +70,3 @@ Concept WordPress Multisite setup to enable single domain management in multiple
 WordPress Multisite based "Website Platform As A Service" concept for Artits, Film Makers, Solopreneurs & Startups
 ### Destination.Coffee (2016 / 2017)
 Directory-based concept for discovering independent coffee shops based in detailed search criteria
-
-
-<!---
-- 👋 Hi, I’m @leodanben
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-leodanben/leodanben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
