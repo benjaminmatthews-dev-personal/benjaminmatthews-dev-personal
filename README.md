@@ -39,13 +39,20 @@ I've studied some open university courses in C Programming in my spare time, alo
 ![](https://img.shields.io/badge/-Dart-informational?style=flat&logo=Dart&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-C-informational?style=flat&logo=C&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=lightgrey)
-
-### Cloud Platforms & Server Management
+### Server Management
+![](https://img.shields.io/badge/-Plesk-informational?style=flat&logo=Plesk&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-cPanel-informational?style=flat&logo=cPanel&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-NGINX-informational?style=flat&logo=NGINX&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-Apache-informational?style=flat&logo=Apache&logoColor=white&color=lightgrey)
+### Database Management
+![](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-MariaDB-informational?style=flat&logo=MariaDB&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-PHPmyAdmin-informational?style=flat&logo=PHP&logoColor=white&color=brightgreen)
+### Cloud Platforms
 ![](https://img.shields.io/badge/-Amazon%20AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-Google%20Cloud-informational?style=flat&logo=Google%20Cloud&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-Cloudflare-informational?style=flat&logo=Cloudflare&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/-Plesk-informational?style=flat&logo=Plesk&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/-cPanel-informational?style=flat&logo=cPanel&logoColor=white&color=brightgreen)
 ### Analytics & Monitoring
 ![](https://img.shields.io/badge/-Google%20Analytics-informational?style=flat&logo=Google%20Analytics&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-Google%20Tag%20Manager-informational?style=flat&logo=Google%20Tag%20Manager&logoColor=white&color=brightgreen)
