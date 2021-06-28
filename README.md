@@ -97,6 +97,7 @@ Multi-datasource serverless ingestion engine, with firebase integration and appl
 - [Import PEM file into Google Cloud Function (Python) Using Google Secrets Manager](https://gist.github.com/leodanben/b85d7b9cf924ac49a7d74c5eecddb478)
 - [Import sensitive environment variables for Python from Google Secrets Manager](https://gist.github.com/leodanben/a76bbbac711203c847a924ce45820e15)
 - [Import non-sensitive environment variables for Python from Google Cloud Storage into Google Cloud Functions](https://gist.github.com/leodanben/4f6299b002ea920d81bd6d4dd7de54bd)
+- [Extract store information from Foodie.fi index page using Python](https://gist.github.com/leodanben/45c471d192fe1a721eb6ebfb0dac86c8)
 ### The Person - As A Publisher - As A Brand (2020)
 Concept WordPress Multisite setup to enable single domain management in multiple niche areas without confusing main keyword orientated content for SEO domain sphere, allowing individuals to publish on multiple topics without confusing search focus for individual domain attributes.
 ### DigitalPlatform.Press (2018 / 2019) 
