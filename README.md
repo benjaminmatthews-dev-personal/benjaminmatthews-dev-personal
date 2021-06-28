@@ -28,29 +28,33 @@ I've studied some open university courses in C Programming in my spare time, alo
 ![](https://img.shields.io/badge/-Shopify%20Theme%20Development-informational?style=flat&logo=Shopify&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/-Shopify%20Management-informational?style=flat&logo=Shopify&logoColor=white&color=lightgrey)
 ### Cloud Platforms
-![](https://img.shields.io/badge/Cloud-Amazon%20AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Cloud-Google%20Cloud-informational?style=flat&logo=Google%20Cloud&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Cloud-Cloudflare-informational?style=flat&logo=Cloudflare&logoColor=white&color=brightgreen) \
-![](https://img.shields.io/badge/Analytics-Google%20Analytics-informational?style=flat&logo=Google%20Analytics&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Analytics-Google%20Tag%20Manager-informational?style=flat&logo=Google%20Tag%20Manager&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Analytics-Google%20Search%20Console-informational?style=flat&logo=Google%20Search%20Console&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Analytics-Google%20PageSpeed%20Insights-informational?style=flat&logo=PageSpeed%20Insights&logoColor=white&color=brightgreen) \
-![](https://img.shields.io/badge/Monitoring-Datadog-informational?style=flat&logo=Datadog&logoColor=white&color=lightgrey)
-![](https://img.shields.io/badge/Monitoring-New%20Relic-informational?style=flat&logo=New%20Relic&logoColor=white&color=lightgrey)
+![](https://img.shields.io/badge/-Amazon%20AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-Google%20Cloud-informational?style=flat&logo=Google%20Cloud&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-Cloudflare-informational?style=flat&logo=Cloudflare&logoColor=white&color=brightgreen) \
+### Analytics & Monitoring
+![](https://img.shields.io/badge/-Google%20Analytics-informational?style=flat&logo=Google%20Analytics&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-Google%20Tag%20Manager-informational?style=flat&logo=Google%20Tag%20Manager&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-Google%20Search%20Console-informational?style=flat&logo=Google%20Search%20Console&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-Google%20PageSpeed%20Insights-informational?style=flat&logo=PageSpeed%20Insights&logoColor=white&color=brightgreen) \
+![](https://img.shields.io/badge/-Datadog-informational?style=flat&logo=Datadog&logoColor=white&color=lightgrey)
+![](https://img.shields.io/badge/-New%20Relic-informational?style=flat&logo=New%20Relic&logoColor=white&color=lightgrey)
 
 
 ## Professional Experience Journey
 - Teaching children to code, create websites and use WordPress since 2012
 - Working as a Freelance WordPress Developer since 2014
-- Helping businesses layout and format their content for SEO and UX since 2015
+- Helping businesses layout and format their content for SEO and UX since 2015 
 - Managing CDNs / DNS / MySQL / web resources and optimising website delivery since 2015
 - Creating WordPress themes using HTML, CSS and JS since 2015
-- Creating WordPress plugins for enhanced site functionality, API integrationo and embedding rich snippet data for SEO since 2016
+- Contributing To WordPress Meetups since 2015
+- Creating WordPress plugins for enhanced site functionality, API integrations and embedding rich snippet data for SEO since 2016
+- Attending Technical, Programming & Cloud Platform Meetups & Conferences since 2016
 - Experience managing cloud based servers for web hosting on AWS since 2017
 - Creating niche content platforms for specific business and creative sectors since 2018
 - Focusing on Cloud Management and Hosting infrastucture since 2018
 - Integrating Multi-Lingual User Experience and Language-Agnostic SEO since 2019
 - Managing my code with GIT and version control priniciples since 2019
+- Contributing & Running AWS Meetups since 2019
 - Expanding beyond traditional web development and into software engineering since 2020
 - Started developing for Shopify in 2020
 - Developing Serverless functions and applications in 2021
