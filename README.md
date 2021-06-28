@@ -9,10 +9,10 @@ Recently, I have been writing applications in Python, Flutter, Dart, PHP, NodeJS
 I have strong skills in HTML, CSS & jQuery for WordPress Developmemt, along with experience with Liquid templating language for Shopify.
 I've studied some open university courses in C Programming in my spare time, along with Software Engineering and Service Design modules
 ### Operating Systems
-[![OS Ubuntu](https://img.shields.io/badge/-Ubuntu-brightgreen?style=flat&logo=Ubuntu&logoColor=white)](https://benjaminmatthews.dev/linus/ubuntu)
-[![OS openSUSE](https://img.shields.io/badge/-openSUSE-brightgreen?style=flat&logo=openSUSE&logoColor=white)](https://benjaminmatthews.dev/linus/opensuse)
-[![OS Windows](https://img.shields.io/badge/-Windows_10-lightgrey?style=flat&logo=Windows&logoColor=white)](https://benjaminmatthews.dev/windows/)
-[![OS Mac](https://img.shields.io/badge/-Mac_OS-lightgrey?style=flat&logo=Apple&logoColor=white)](https://benjaminmatthews.dev/windows/)
+[![OS Ubuntu](https://img.shields.io/badge/-Ubuntu-brightgreen?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://benjaminmatthews.dev/linus/ubuntu)
+[![OS openSUSE](https://img.shields.io/badge/-openSUSE-brightgreen?style=for-the-badge&logo=openSUSE&logoColor=white)](https://benjaminmatthews.dev/linus/opensuse)
+[![OS Windows](https://img.shields.io/badge/-Windows_10-lightgrey?style=for-the-badge&logo=Windows&logoColor=white)](https://benjaminmatthews.dev/windows/)
+[![OS Mac](https://img.shields.io/badge/-Mac_OS-lightgrey?style=for-the-badge&logo=Apple&logoColor=white)](https://benjaminmatthews.dev/windows/)
 ### Code Editing
 ![](https://img.shields.io/badge/-PHPstorm-informational?style=flat&logo=PhpStorm&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=brightgreen)
