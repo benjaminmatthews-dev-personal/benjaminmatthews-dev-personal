@@ -27,6 +27,15 @@ I've studied some open university courses in C Programming in my spare time, alo
 ![](https://img.shields.io/badge/-WooCommerce%20Management-informational?style=flat&logo=Woo&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-Shopify%20Theme%20Development-informational?style=flat&logo=Shopify&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/-Shopify%20Management-informational?style=flat&logo=Shopify&logoColor=white&color=lightgrey)
+### Languages & Frameworks
+![](https://img.shields.io/badge/-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-PHP-informational?style=flat&logo=PHP&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=GNU%20Bash&logoColor=white&color=lightgrey)
+
 ### Cloud Platforms & Server Management
 ![](https://img.shields.io/badge/-Amazon%20AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-Google%20Cloud-informational?style=flat&logo=Google%20Cloud&logoColor=white&color=brightgreen)
