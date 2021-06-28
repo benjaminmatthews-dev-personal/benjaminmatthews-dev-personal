@@ -27,10 +27,12 @@ I've studied some open university courses in C Programming in my spare time, alo
 ![](https://img.shields.io/badge/-WooCommerce%20Management-informational?style=flat&logo=Woo&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-Shopify%20Theme%20Development-informational?style=flat&logo=Shopify&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/-Shopify%20Management-informational?style=flat&logo=Shopify&logoColor=white&color=lightgrey)
-### Cloud Platforms
+### Cloud Platforms & Server Management
 ![](https://img.shields.io/badge/-Amazon%20AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-Google%20Cloud-informational?style=flat&logo=Google%20Cloud&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-Cloudflare-informational?style=flat&logo=Cloudflare&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-Plesk-informational?style=flat&logo=Plesk&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-cPanel-informational?style=flat&logo=cPanel&logoColor=white&color=brightgreen)
 ### Analytics & Monitoring
 ![](https://img.shields.io/badge/-Google%20Analytics-informational?style=flat&logo=Google%20Analytics&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-Google%20Tag%20Manager-informational?style=flat&logo=Google%20Tag%20Manager&logoColor=white&color=brightgreen)
