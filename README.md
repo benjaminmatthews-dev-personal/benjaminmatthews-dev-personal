@@ -35,6 +35,12 @@ I've studied some open university courses in C Programming in my spare time, alo
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=GNU%20Bash&logoColor=white&color=lightgrey)
+![](https://img.shields.io/badge/-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-Dart-informational?style=flat&logo=Dart&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-C-informational?style=flat&logo=C&logoColor=white&color=lightgrey)
+
+
+
 
 ### Cloud Platforms & Server Management
 ![](https://img.shields.io/badge/-Amazon%20AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=brightgreen)
