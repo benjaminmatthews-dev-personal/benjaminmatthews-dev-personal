@@ -27,7 +27,7 @@ I've studied some open university courses in C Programming in my spare time, alo
 ![](https://img.shields.io/badge/-WooCommerce%20Management-informational?style=flat&logo=Woo&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-Shopify%20Theme%20Development-informational?style=flat&logo=Shopify&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/-Shopify%20Management-informational?style=flat&logo=Shopify&logoColor=white&color=lightgrey)
-### Languages & Frameworks
+### Languages / Frameworks / Runtime Environments
 ![](https://img.shields.io/badge/-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=brightgreen)
@@ -38,9 +38,7 @@ I've studied some open university courses in C Programming in my spare time, alo
 ![](https://img.shields.io/badge/-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-Dart-informational?style=flat&logo=Dart&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-C-informational?style=flat&logo=C&logoColor=white&color=lightgrey)
-
-
-
+![](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=lightgrey)
 
 ### Cloud Platforms & Server Management
 ![](https://img.shields.io/badge/-Amazon%20AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=brightgreen)
