@@ -30,12 +30,12 @@ I've studied some open university courses in C Programming in my spare time, alo
 ### Cloud Platforms
 ![](https://img.shields.io/badge/-Amazon%20AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-Google%20Cloud-informational?style=flat&logo=Google%20Cloud&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/-Cloudflare-informational?style=flat&logo=Cloudflare&logoColor=white&color=brightgreen) \
+![](https://img.shields.io/badge/-Cloudflare-informational?style=flat&logo=Cloudflare&logoColor=white&color=brightgreen)
 ### Analytics & Monitoring
 ![](https://img.shields.io/badge/-Google%20Analytics-informational?style=flat&logo=Google%20Analytics&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-Google%20Tag%20Manager-informational?style=flat&logo=Google%20Tag%20Manager&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-Google%20Search%20Console-informational?style=flat&logo=Google%20Search%20Console&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/-Google%20PageSpeed%20Insights-informational?style=flat&logo=PageSpeed%20Insights&logoColor=white&color=brightgreen) \
+![](https://img.shields.io/badge/-Google%20PageSpeed%20Insights-informational?style=flat&logo=PageSpeed%20Insights&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-Datadog-informational?style=flat&logo=Datadog&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/-New%20Relic-informational?style=flat&logo=New%20Relic&logoColor=white&color=lightgrey)
 
