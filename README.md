@@ -14,20 +14,20 @@ I've studied some open university courses in C Programming in my spare time, alo
 [![OS Windows](https://img.shields.io/badge/-Windows_10-lightgrey?style=flat&logo=Windows&logoColor=white)](https://benjaminmatthews.dev/windows/)
 [![OS Mac](https://img.shields.io/badge/-Mac_OS-lightgrey?style=flat&logo=Apple&logoColor=white)](https://benjaminmatthews.dev/windows/)
 ### Code Editing
-
-
-[![OS Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=brightgreen)](https://benjaminmatthews.dev)
-![](https://img.shields.io/badge/OS-openSUSE-informational?style=flat&logo=openSUSE&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=lightgrey)
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=Apple&logoColor=white&color=lightgrey) \
-![](https://img.shields.io/badge/Editor-PHPstorm-informational?style=flat&logo=PhpStorm&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Editor-Android%20Studio-informational?style=flat&logo=Android%20Studio&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=lightgrey) \
-![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=WordPress&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/CMS-WooCommerce-informational?style=flat&logo=Woo&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/CMS-Shopify-informational?style=flat&logo=Shopify&logoColor=white&color=lightgrey) \
+![](https://img.shields.io/badge/-PHPstorm-informational?style=flat&logo=PhpStorm&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-Android%20Studio-informational?style=flat&logo=Android%20Studio&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=lightgrey)
+### Content Management Systems
+![](https://img.shields.io/badge/-WordPress%20Theme%20Development-informational?style=flat&logo=WordPress&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-WordPress%20Plugin%20Development-informational?style=flat&logo=WordPress&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-WordPress%20Management-informational?style=flat&logo=WordPress&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-WooCommerce%20Integration%20Development-informational?style=flat&logo=Woo&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-WooCommerce%20Management-informational?style=flat&logo=Woo&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/-Shopify%20Theme%20Development-informational?style=flat&logo=Shopify&logoColor=white&color=lightgrey)
+![](https://img.shields.io/badge/-Shopify%20Management-informational?style=flat&logo=Shopify&logoColor=white&color=lightgrey)
+### Cloud Platforms
 ![](https://img.shields.io/badge/Cloud-Amazon%20AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Cloud-Google%20Cloud-informational?style=flat&logo=Google%20Cloud&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Cloud-Cloudflare-informational?style=flat&logo=Cloudflare&logoColor=white&color=brightgreen) \
