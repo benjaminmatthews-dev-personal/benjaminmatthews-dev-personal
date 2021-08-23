@@ -89,6 +89,9 @@ I've studied some open university courses in C Programming in my spare time, alo
 Business Directory Website & Application to help user discovery of small and independent businesses in the catering sector, with a "Webpage / Listing As A Service" model.
 ### Minun Pizzat Tilaukset (2021)
 Business Improvement Project for local business to manage ordering process for multilingual customers, transforming into "Order Application As A Service" product
+#### Public Gists
+- [App Bar Title Layout for Flutter Application](https://gist.github.com/leodanben/4e5a77aec15f21cb789b0481dbb983e8)
+
 ### Codename Pelican (2021)
 Multi-datasource serverless ingestion engine, with firebase integration and application UI, allowing small businesses to access and analyse retail sales and order statistics.
 #### Public Gists
