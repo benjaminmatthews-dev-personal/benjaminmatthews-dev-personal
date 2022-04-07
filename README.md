@@ -11,8 +11,11 @@ I've studied some open university courses in C Programming in my spare time, alo
 ### Operating Systems
 [![OS Ubuntu](https://img.shields.io/badge/-Ubuntu-brightgreen?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://benjaminmatthews.dev/linus/ubuntu)
 [![OS openSUSE](https://img.shields.io/badge/-openSUSE-brightgreen?style=for-the-badge&logo=openSUSE&logoColor=white)](https://benjaminmatthews.dev/linus/opensuse)
+[![OS Windows](https://img.shields.io/badge/-Windows_11-brightgreen?style=for-the-badge&logo=Windows&logoColor=white)](https://benjaminmatthews.dev/windows/)
 [![OS Windows](https://img.shields.io/badge/-Windows_10-lightgrey?style=for-the-badge&logo=Windows&logoColor=white)](https://benjaminmatthews.dev/windows/)
 [![OS Mac](https://img.shields.io/badge/-Mac_OS-lightgrey?style=for-the-badge&logo=Apple&logoColor=white)](https://benjaminmatthews.dev/windows/)
+#### Related Projects, Repos & Documentation
+[Windows 11 Automate Setup Powershell Scripts](https://github.com/leodanben/setup-windows-scripts)
 ### Code Editing
 ![](https://img.shields.io/badge/-PHPstorm-informational?style=for-the-badge&logo=PhpStorm&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/-PyCharm-informational?style=for-the-badge&logo=PyCharm&logoColor=white&color=brightgreen)
