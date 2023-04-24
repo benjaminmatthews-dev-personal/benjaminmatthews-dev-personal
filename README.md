@@ -1,6 +1,6 @@
 # Hi ... I'm Benjamin Matthews
 
-My Github handle is [@leodanben](https://github.com/leodanben), and I also use the same on [Twitter](https://twitter.com/leodanben), [LinkedIn](https://www.linkedin.com/in/leodanben/) and even on [Instagram](https://www.instagram.com/leodanben/). 
+My Github handle is [@benjaminmatthews-dev-personal](https://github.com/leodanben), and I also use the same on [Twitter](https://twitter.com/leodanben), [LinkedIn](https://www.linkedin.com/in/leodanben/) and even on [Instagram](https://www.instagram.com/leodanben/). 
 
 You can also find my website at [benjaminmatthews.dev](http://benjaminmatthews.dev)
 
